@@ -11,9 +11,13 @@ a {
   cursor: pointer;
 }
 
-header nav {
+header {
   height: 60px;
   width: 100%;
+}
+
+header nav {
+  height: 60px;
   display: flex;
   justify-content: flex-end;
 }
