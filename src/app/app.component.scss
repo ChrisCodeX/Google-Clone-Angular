@@ -56,10 +56,30 @@ main {
 
 main .main-logo {
   width: 500px;
-  margin: 0 auto;
-  margin-bottom: 35px;
+  margin: 0 auto 30px;
 }
 
 main .main-logo img {
-  width: 384px;
+  width: 380px;
+}
+
+main .main-input {
+  width: 530px;
+  margin: 0 auto 35px;
+}
+
+main .main-input .main-input-container {
+  margin: 0 auto;
+  width: 525px;
+  border: 1px solid #dfe1e5;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+main .main-input .main-input-container input {
+  width: 443px;
+  height: 34px;
+  border: none;
+  outline: none;
 }
