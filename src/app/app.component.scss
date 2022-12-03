@@ -167,8 +167,15 @@ footer ul {
 
 footer .footer-left {
   justify-self: left;
+  align-items: center;
 }
 
 footer .footer-right {
   justify-self: right;
+  align-items: center;
+}
+
+footer ul li a {
+  margin: 10px;
+  color: #5f6368;
 }
