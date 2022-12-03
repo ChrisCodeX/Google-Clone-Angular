@@ -165,7 +165,10 @@ footer ul {
   padding-left: 0;
 }
 
+footer .footer-left {
+  justify-self: right;
+}
+
 footer .footer-right {
   justify-self: right;
-  gap: 10px;
 }
